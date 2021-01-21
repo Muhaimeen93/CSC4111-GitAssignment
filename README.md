@@ -1,4 +1,7 @@
+
 # GitHub and Git Conflict
+
+# GitHub and Git
+
 # CSC4111-GitAssignment
-Name: Muhaimeen Chowdhury
-Access ID: gy3030
+
